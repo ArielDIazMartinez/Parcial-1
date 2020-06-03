@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Parcial\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\Asus\Desktop\Parcial\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\Asus\Desktop\Parcial\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\Asus\Desktop\Parcial\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Parcial\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\Asus\Desktop\Parcial\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
